@@ -99,6 +99,46 @@
     {
       "question": "Suryansh",
       "answer": "This is the name of one of my friends."
-    }
+    },
+    {
+      "question": "What is a variable in programming?",
+      "answer": "A variable is a named storage location in memory used to hold data that can be modified during program execution."
+  },
+  {
+      "question": "What are data types?",
+      "answer": "Data types define the type of data a variable can hold, such as integers, floating-point numbers, characters, or strings."
+  },
+  {
+      "question": "What is a function?",
+      "answer": "A function is a block of code designed to perform a specific task and can be reused throughout the program."
+  },
+  {
+      "question": "What is an array?",
+      "answer": "An array is a collection of elements, all of the same data type, stored at contiguous memory locations."
+  },
+  {
+      "question": "What is a loop in programming?",
+      "answer": "A loop is a control structure that allows code to be executed repeatedly based on a condition."
+  },
+  {
+      "question": "What is recursion?",
+      "answer": "Recursion is a programming technique where a function calls itself to solve a smaller instance of the problem."
+  },
+  {
+      "question": "What is an object in object-oriented programming?",
+      "answer": "An object is an instance of a class that encapsulates data and behaviors related to that data."
+  },
+  {
+      "question": "What is the difference between ‘==’ and ‘===’ in JavaScript?",
+      "answer": "‘==’ checks for value equality after type conversion, whereas ‘===’ checks for strict equality, including type."
+  },
+  {
+      "question": "What is the difference between a stack and a queue?",
+      "answer": "A stack follows the Last In First Out (LIFO) principle, while a queue follows the First In First Out (FIFO) principle."
+  },
+  {
+      "question": "What is an algorithm?",
+      "answer": "An algorithm is a step-by-step procedure or formula for solving a problem or performing a task."
+  }
   ]
 }
